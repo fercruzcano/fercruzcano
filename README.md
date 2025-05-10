@@ -23,13 +23,19 @@
 
 <br>
 
-## Tecnologias 🧑‍💻 :
+## Tecnologías 🧑‍💻 :
 
 <br>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,javascript,html5,css3,mysql,php,spring,postman,apirest" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,javascript,html,css,mysql,php,spring,postman,wordpress" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,arduino,atom,aws,devto,figma,github,linux,ocaml,postgres,stackoverflow,vscode" />
   </a>
 </p>
 
