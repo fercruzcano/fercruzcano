@@ -10,21 +10,23 @@
 <h1 align="center">Hello 👋 I am Fernando Cruz Cano</strong> ✨ </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+UnProgramadorNace+Profile!;Don't+Forget++Suscribe+To+My+Youtube+Channel!;No+Olvides+Suscribirte+A+Mi+Canal+De+Youtube!" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Bienvenido+a+FerchosCruz!;Don't+Forget++Suscribe+To+My+TikTok+Channel!;No+Olvides+Seguirme+En+Mi+Canal+De+TikTok!" /></a>
 </p>
 
 <p align="center">
-    <a href="https://youtube.com/@unprogramadornace" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace" /></a>
-    <a href="https://www.linkedin.com/in/UnProgramadorNace"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@unprogramadornace"/></a>
-    <a href="https://www.facebook.com/people/Un-Programador-Nace/61552057605223/"  target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="@unprogramadornace" /></a>
-    <a href = "mailto:unprogramadornace@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unprogramadornace" /></a>
+    <a href="https://www.youtube.com/@ferchosCruz" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+alt="@unprogramadornace" /></a>
+    <a href="https://www.linkedin.com/in/fernando-cruz-cano/"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@unprogramadornace"/></a>
+    <a href="https://www.facebook.com/fernando.cruzcano.927"  target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="@unprogramadornace" /></a>
+    <a href = "https://tiktok.com/@ferchos_cruz" target="_blank"><img align="center" src="https://img.shields.io/badge/TikTok-D14836?style=for-the-badge&logo=tiktok&logoColor=white" 
+alt="@unprogramadornace" /></a>
   </p>
 <br>
 <h2 align="center">Sobre mi 😎🤏</h2>
 <!--Intro start-->
 
 <p align="left">
-💻 **Ingeniero Informatico**
+💻 Ingeniero Informatico
 
 📝 Desarrollador de Backend, proactivo y autodidacta.
 
@@ -41,12 +43,12 @@
 <p align="center">
   <h2>:star2: Front End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,tailwind,react,angular,npm,netlify,vite,regex&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,figma,wordpress" />
   </a>
 
   <h2>:zap: Back End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,aws,idea,eclipse,maven,mysql,postgres,dynamodb,firebase,sqlite&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,aws,maven,mysql,postgres,firebase,php,ocaml" />
   </a>
 
   <h2>:hammer: Devops</h2>
@@ -56,7 +58,7 @@
 
   <h2>:wrench: Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,docker,git,gitlab,github,ubuntu&perline=6" />
+    <img src="https://skillicons.dev/icons?i=postman,docker,git,github" />
   </a>
 </p>
 <br>
