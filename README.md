@@ -79,7 +79,7 @@ alt="@unprogramadornace" /></a>
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://www.tiktok.com/@ferchos_cruz/video/7477047257003543863" title="Go to Source">
+     <a href="" title="Go to Source">
         <img align="center" width=100% src="./Assets/Tokens.png" alt="VIDEO" /></a>
       </p>
     <p align="center">
@@ -90,81 +90,79 @@ alt="@unprogramadornace" /></a>
 
 <td width="25%" align="center">
     <p align="center">
-        <a href="https://youtu.be/IPWBQDMIYkc" target="_blank">
-          <img align="center" src="./Assets/Security.png" alt="@unprogramadornace"  />
-        </a>
-    </p> 
+     <a href="" title="Go to Source">
+        <img align="center" width=100% src="./Assets/Tokens.png" alt="VIDEO" /></a>
+      </p>
     <p align="center">
-        <a href="https://youtu.be/IPWBQDMIYkc" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace" /></a>
-        <a href="https://github.com/UnProgramadorNaceOfficial/spring-security-complete" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unprogramadornace" /></a>
-    </p> 
+        <a href="https://www.tiktok.com/@ferchos_cruz/video/7477047257003543863" target="_blank"><img align="center" src="https://img.shields.io/badge/TikTok-FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@UnProgramadorNace"  /></a>
+        <a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@UnProgramadorNace" /></a>
+    </p>       
 </td>
 
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/t0D4OPcugyI" title="Go to Source">
-        <img align="center" width=100% src="./Assets/microservicios.jpg"   alt="VIDEO" /></a>
+     <a href="" title="Go to Source">
+        <img align="center" width=100% src="./Assets/Tokens.png" alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/t0D4OPcugyI" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace"  /></a>
-      <a href="https://github.com/UnProgramadorNaceOfficial/spring-microservices-beginers" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unprogramadornace" /></a>
+        <a href="https://www.tiktok.com/@ferchos_cruz/video/7477047257003543863" target="_blank"><img align="center" src="https://img.shields.io/badge/TikTok-FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@UnProgramadorNace"  /></a>
+        <a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@UnProgramadorNace" /></a>
     </p>       
 </td>
 
    <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/UbbyW5Z1lv8" title="Go to Source">
-        <img align="center" width=100% src="./Assets/kafka.jpg" alt="VIDEO" /></a>
+     <a href="" title="Go to Source">
+        <img align="center" width=100% src="./Assets/Tokens.png" alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/UbbyW5Z1lv8" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace"  /></a>
-      <a href="https://github.com/UnProgramadorNaceOfficial/spring-apache-kafka" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unprogramadornace" /></a>
+        <a href="https://www.tiktok.com/@ferchos_cruz/video/7477047257003543863" target="_blank"><img align="center" src="https://img.shields.io/badge/TikTok-FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@UnProgramadorNace"  /></a>
+        <a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@UnProgramadorNace" /></a>
     </p>       
 </td>
 
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/a3l1zmcNwjQ" title="Go to Source">
-        <img align="center" width=100% src="./Assets/Validations.png" alt="VIDEO" /></a>
+     <a href="" title="Go to Source">
+        <img align="center" width=100% src="./Assets/Tokens.png" alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/a3l1zmcNwjQ" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@UnProgramadorNace"  /></a>
-        <a href="https://github.com/UnProgramadorNaceOfficial/spring-boot-validations" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@UnProgramadorNace" /></a>
+        <a href="https://www.tiktok.com/@ferchos_cruz/video/7477047257003543863" target="_blank"><img align="center" src="https://img.shields.io/badge/TikTok-FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@UnProgramadorNace"  /></a>
+        <a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@UnProgramadorNace" /></a>
     </p>       
 </td>
 
 <td width="25%" align="center">
     <p align="center">
-        <a href="https://youtu.be/i0ORMLNhLW8" target="_blank">
-          <img align="center" src="./Assets/Events.png" alt="@unprogramadornace"  />
-        </a>
-    </p> 
+     <a href="" title="Go to Source">
+        <img align="center" width=100% src="./Assets/Tokens.png" alt="VIDEO" /></a>
+      </p>
     <p align="center">
-        <a href="https://youtu.be/i0ORMLNhLW8" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace" /></a>
-        <a href="https://github.com/UnProgramadorNaceOfficial/spring-boot-event-fundamentals" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unprogramadornace" /></a>
-    </p> 
+        <a href="https://www.tiktok.com/@ferchos_cruz/video/7477047257003543863" target="_blank"><img align="center" src="https://img.shields.io/badge/TikTok-FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@UnProgramadorNace"  /></a>
+        <a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@UnProgramadorNace" /></a>
+    </p>       
 </td>
   
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/UExwNGhEcZc" title="Go to Source">
-        <img align="center" width=100% src="./Assets/Report.jpg"   alt="VIDEO" /></a>
+     <a href="" title="Go to Source">
+        <img align="center" width=100% src="./Assets/Tokens.png" alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/UExwNGhEcZc" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace"  /></a>
-      <a href="https://github.com/UnProgramadorNaceOfficial/spring-boot-jasper-report" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unprogramadornace" /></a>
+        <a href="https://www.tiktok.com/@ferchos_cruz/video/7477047257003543863" target="_blank"><img align="center" src="https://img.shields.io/badge/TikTok-FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@UnProgramadorNace"  /></a>
+        <a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@UnProgramadorNace" /></a>
     </p>       
 </td>
 
-   <td width="25%" align="center">
+  <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/6RQTsx_6wXo" title="Go to Source">
-        <img align="center" width=100% src="./Assets/Jpa.jpg" alt="VIDEO" /></a>
+     <a href="" title="Go to Source">
+        <img align="center" width=100% src="./Assets/Tokens.png" alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/6RQTsx_6wXo" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace"  /></a>
-      <a href="https://github.com/UnProgramadorNaceOfficial/JPA-relations" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unprogramadornace" /></a>
+        <a href="https://www.tiktok.com/@ferchos_cruz/video/7477047257003543863" target="_blank"><img align="center" src="https://img.shields.io/badge/TikTok-FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@UnProgramadorNace"  /></a>
+        <a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@UnProgramadorNace" /></a>
     </p>       
 </td>
 </tr>
@@ -182,7 +180,7 @@ alt="@unprogramadornace" /></a>
 <tr border="none">
 <td width="60%" align="center">
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unprogramadornaceofficial&theme=dark&show_icons=true&count_private=true" />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=fercruzcano&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=UnProgramadorNaceOfficial&theme=dark&hide_border=false" /> 
 </td>
@@ -193,7 +191,7 @@ alt="@unprogramadornace" /></a>
 
 <!--- trophy (start) -->
 <div align=center>
-  <a href="https://github.com/UnProgramadorNaceOfficial" title="Go to Source">
+  <a href="https://github.com/fercruzcano" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unprogramadornaceofficial&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
