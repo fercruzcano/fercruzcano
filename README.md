@@ -1,71 +1,204 @@
-<div align="center" width="50">
-    <!-- <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/> -->
-    
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
+<!-- <br>
+<br>
+<div align="center">
+    <a href="https://youtube.com/@unprogramadornace" target="_blank"><img align="center" src="./Assets/Circle.png" alt="@unprogramadornace" width="250px"/></a>
 </div>
-<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Mi nombre es FERNANDO, pero me dicen Fercho</h1>
-
-![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
-
-## Acerca de mi :
-
-- 💻 **Ingeniero Informatico**
-- 🏢 Acualmente soy developer Backend **Java** 
-- 🎓 Estudie Ingenieria Informática en [TecNM Campus Zacapoaxtla](https://zacapoaxtla.tecnm.mx/)
-- 🏡 Soy de **Puebla, MX**
-- ⚡ **Datos curiosos** : 🍕 🏉 🏏 🎥 🚞
-
 <br>
+<br> -->
+<h1 align="center">Hello 👋 I am Santiago Perez</strong> ✨ </h1>
 
-## Contactame ☕ :
-
-<br>
-
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
-
-<br>
-
-## Tecnologías 🧑‍💻 :
-
-<br>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,java,javascript,html,css,mysql,php,spring,postman,wordpress" />
-  </a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+UnProgramadorNace+Profile!;Don't+Forget++Suscribe+To+My+Youtube+Channel!;No+Olvides+Suscribirte+A+Mi+Canal+De+Youtube!" /></a>
 </p>
 
+<p align="center">
+    <a href="https://youtube.com/@unprogramadornace" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace" /></a>
+    <a href="https://www.linkedin.com/in/UnProgramadorNace"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@unprogramadornace"/></a>
+    <a href="https://www.facebook.com/people/Un-Programador-Nace/61552057605223/"  target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="@unprogramadornace" /></a>
+    <a href = "mailto:unprogramadornace@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unprogramadornace" /></a>
+  </p>
+<br>
+<h2 align="center">Sobre mi 😎🤏</h2>
+<!--Intro start-->
+
 <p align="left">
+🎓 ESTUDIANTE DE INGENIERIA DE SOFTWARE
+
+📝 Desarrollador de software, proactivo y autodidacta, además de Youtuber de tecnología.
+
+💻 Tengo unos cuantos años de experiencia trabajando con JAVA | SPRING FRAMEWORK | JAVASCRIPT
+
+📫 Contacto: **unprogramadornace@gmail.com**
+
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="center">
+  <h2>:star2: Front End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,arduino,atom,aws,devto,figma,github,linux,ocaml,postgres,stackoverflow,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,tailwind,react,angular,npm,netlify,vite,regex&perline=6" />
   </a>
+
+  <h2>:zap: Back End</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,aws,idea,eclipse,maven,mysql,postgres,dynamodb,firebase,sqlite&perline=6" />
+  </a>
+
+  <h2>:hammer: Devops</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jenkins,terraform&perline=12" />
+  </a>
+
+  <h2>:wrench: Tools</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,docker,git,gitlab,github,ubuntu&perline=6" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+<div id="proyectos">
+<br>
+
+<h2 align="left">Si quieres apoyarme 😻</h2>
+<p align="left">
+  <a href="https://paypal.me/unprogramadornace?country.x=CO&locale.x=es_XC" target="_blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="@unprogramadornace"/></a>
 </p>
 
 <br>
-
-## GitHub Stats 📈 :
-
 <br>
+<h2 >Algunos proyectos👨🏻‍💻</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![AnushkaWijegoonawardana97 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
+        <img align="center" width=100% src="./Assets/Tokens.png" alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/wzGCBZCknUs" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@UnProgramadorNace"  /></a>
+        <a href="https://github.com/UnProgramadorNaceOfficial/spring-security-token-universe" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@UnProgramadorNace" /></a>
+    </p>       
+</td>
 
-<br>
+<td width="25%" align="center">
+    <p align="center">
+        <a href="https://youtu.be/IPWBQDMIYkc" target="_blank">
+          <img align="center" src="./Assets/Security.png" alt="@unprogramadornace"  />
+        </a>
+    </p> 
+    <p align="center">
+        <a href="https://youtu.be/IPWBQDMIYkc" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace" /></a>
+        <a href="https://github.com/UnProgramadorNaceOfficial/spring-security-complete" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unprogramadornace" /></a>
+    </p> 
+</td>
 
-## GitHub Thropies 🏆 :
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/t0D4OPcugyI" title="Go to Source">
+        <img align="center" width=100% src="./Assets/microservicios.jpg"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/t0D4OPcugyI" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace"  /></a>
+      <a href="https://github.com/UnProgramadorNaceOfficial/spring-microservices-beginers" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unprogramadornace" /></a>
+    </p>       
+</td>
 
-<br>
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/UbbyW5Z1lv8" title="Go to Source">
+        <img align="center" width=100% src="./Assets/kafka.jpg" alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/UbbyW5Z1lv8" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace"  /></a>
+      <a href="https://github.com/UnProgramadorNaceOfficial/spring-apache-kafka" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unprogramadornace" /></a>
+    </p>       
+</td>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/a3l1zmcNwjQ" title="Go to Source">
+        <img align="center" width=100% src="./Assets/Validations.png" alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/a3l1zmcNwjQ" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@UnProgramadorNace"  /></a>
+        <a href="https://github.com/UnProgramadorNaceOfficial/spring-boot-validations" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@UnProgramadorNace" /></a>
+    </p>       
+</td>
 
-<br>
-<!--
-## Activity Graph 📊 : -->
+<td width="25%" align="center">
+    <p align="center">
+        <a href="https://youtu.be/i0ORMLNhLW8" target="_blank">
+          <img align="center" src="./Assets/Events.png" alt="@unprogramadornace"  />
+        </a>
+    </p> 
+    <p align="center">
+        <a href="https://youtu.be/i0ORMLNhLW8" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace" /></a>
+        <a href="https://github.com/UnProgramadorNaceOfficial/spring-boot-event-fundamentals" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unprogramadornace" /></a>
+    </p> 
+</td>
+  
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/UExwNGhEcZc" title="Go to Source">
+        <img align="center" width=100% src="./Assets/Report.jpg"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/UExwNGhEcZc" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace"  /></a>
+      <a href="https://github.com/UnProgramadorNaceOfficial/spring-boot-jasper-report" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unprogramadornace" /></a>
+    </p>       
+</td>
 
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/6RQTsx_6wXo" title="Go to Source">
+        <img align="center" width=100% src="./Assets/Jpa.jpg" alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/6RQTsx_6wXo" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace"  /></a>
+      <a href="https://github.com/UnProgramadorNaceOfficial/JPA-relations" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unprogramadornace" /></a>
+    </p>       
+</td>
+</tr>
+</table>
+  </div>
 
-<!--
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!------------------------->
 
+<br/><br/>
+<h2>GitHub :octocat:</h2>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="60%" align="center">
 
-<!--  
-Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unprogramadornaceofficial&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=UnProgramadorNaceOfficial&theme=dark&hide_border=false" /> 
+</td>
 
-Last edited on: 30/06/2022 -->
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/UnProgramadorNaceOfficial" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unprogramadornaceofficial&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+</p>       
+<br/>
+<br/>
+<br/>
+<br/>
