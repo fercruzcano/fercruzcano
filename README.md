@@ -7,7 +7,7 @@
 </div>
 <br>
 <br> -->
-<h1 align="center">Hello 👋 I am Santiago Perez</strong> ✨ </h1>
+<h1 align="center">Hello 👋 I am Fernando Cruz Cano</strong> ✨ </h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+UnProgramadorNace+Profile!;Don't+Forget++Suscribe+To+My+Youtube+Channel!;No+Olvides+Suscribirte+A+Mi+Canal+De+Youtube!" /></a>
@@ -24,13 +24,13 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 ESTUDIANTE DE INGENIERIA DE SOFTWARE
+💻 **Ingeniero Informatico**
 
-📝 Desarrollador de software, proactivo y autodidacta, además de Youtuber de tecnología.
+📝 Desarrollador de Backend, proactivo y autodidacta.
 
-💻 Tengo unos cuantos años de experiencia trabajando con JAVA | SPRING FRAMEWORK | JAVASCRIPT
+💻 Tengo unos cuantos años de experiencia trabajando con JAVA | SPRING FRAMEWORK | PHP
 
-📫 Contacto: **unprogramadornace@gmail.com**
+📫 Contacto: **fcruzcano08@gmail.com**
 
 <!--Intro end-->
   </p>
