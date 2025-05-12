@@ -10,7 +10,7 @@
 <h1 align="center">Hello 👋 I am Fernando Cruz Cano</strong> ✨ </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Bienvenido+a+FerchosCruz!;Don't+Forget++Suscribe+To+My+TikTok+Channel!;No+Olvides+Seguirme+En+Mi+Canal+De+TikTok!" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Bienvenido+a+FerchosCruz!;Don't+Forget++Suscribe+To+My+TikTok+Channel!;No+Olvides+Seguirme+En+Mi+Cuenta+De+TikTok!" /></a>
 </p>
 
 <p align="center">
@@ -79,12 +79,12 @@ alt="@unprogramadornace" /></a>
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
+     <a href="https://www.tiktok.com/@ferchos_cruz/video/7477047257003543863" title="Go to Source">
         <img align="center" width=100% src="./Assets/Tokens.png" alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/wzGCBZCknUs" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@UnProgramadorNace"  /></a>
-        <a href="https://github.com/UnProgramadorNaceOfficial/spring-security-token-universe" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@UnProgramadorNace" /></a>
+        <a href="https://www.tiktok.com/@ferchos_cruz/video/7477047257003543863" target="_blank"><img align="center" src="https://img.shields.io/badge/TikTok-FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@UnProgramadorNace"  /></a>
+        <a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@UnProgramadorNace" /></a>
     </p>       
 </td>
 
