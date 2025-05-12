@@ -7,7 +7,7 @@
 </div>
 <br>
 <br> -->
-<h1 align="center">Hello 👋 I am Fernando Cruz Cano</strong> ✨ </h1>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Mi nombre es FERNANDO, pero me dicen Fercho</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Bienvenido+a+mi+Perfil+de+GitHub!;Don't+Forget++Suscribe+To+My+TikTok+Channel!;No+Olvides+Seguirme+En+Mi+Cuenta+De+TikTok!" /></a>
