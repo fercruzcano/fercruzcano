@@ -51,10 +51,11 @@ alt="@unprogramadornace" /></a>
     <img src="https://skillicons.dev/icons?i=java,spring,aws,maven,mysql,postgres,firebase,php,ocaml" />
   </a>
 
+<!--
   <h2>:hammer: Devops</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=jenkins,terraform&perline=12" />
-  </a>
+  </a> -->
 
   <h2>:wrench: Tools</h2>
   <a href="https://skillicons.dev">
