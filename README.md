@@ -65,15 +65,15 @@ alt="@unprogramadornace" /></a>
 <br>
 <!-------------------------->
 <div id="proyectos">
-<br>
 
+<!--
 <h2 align="left">Si quieres apoyarme 😻</h2>
 <p align="left">
   <a href="https://paypal.me/unprogramadornace?country.x=CO&locale.x=es_XC" target="_blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="@unprogramadornace"/></a>
-</p>
+</p> -->
 
-<br>
-<br>
+
+
 <h2 >Algunos proyectos👨🏻‍💻</h2>
 
 <table align="left" >
